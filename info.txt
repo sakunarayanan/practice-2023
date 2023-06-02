@@ -1,1 +1,2 @@
 Git is popular opensource tool  
+Git is fast and lightweight
